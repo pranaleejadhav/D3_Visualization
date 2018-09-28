@@ -1,0 +1,5868 @@
+[
+  {
+    "State_Code": 2,
+    "State_Abv": "AK",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 2728
+  },
+  {
+    "State_Code": 2,
+    "State_Abv": "AK",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 61674
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 691645
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 9,
+    "Damage_Descp": "Asian Soybean Rust",
+    "Amount": 1031
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 12095166
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 777678
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 30174
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 19454535
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 104549
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 16401
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 26947
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 65058
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 125379
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 462955
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 61796
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 5696
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 15954
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 285501
+  },
+  {
+    "State_Code": 1,
+    "State_Abv": "AL",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 1273689
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 810082
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 9,
+    "Damage_Descp": "Asian Soybean Rust",
+    "Amount": 9620
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 2289303
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 9710160
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 51409
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 4831
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 16332
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 493778
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 119675613
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 15899
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 2036
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 6397
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 8424048
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 6912664
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 997149
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1436154
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 39168
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 316777
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 81603
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 458424
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 37796
+  },
+  {
+    "State_Code": 5,
+    "State_Abv": "AR",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 105312
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 89863
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 9918142
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1355800
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 222334
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 249800
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 4714
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 24573
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 969749
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 51496
+  },
+  {
+    "State_Code": 4,
+    "State_Abv": "AZ",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 75664
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 11962
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 1639605
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 249047966
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 162514832
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 1156693
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 11235929
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 47616979
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 3470451
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 8442885
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 1061493
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 21979888
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 61595
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 20047842
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 5273692
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 174093
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 2823674
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1982224
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 118902
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 1012243
+  },
+  {
+    "State_Code": 6,
+    "State_Abv": "CA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 2688717
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 1852426
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 9723064
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 528705
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 9220718
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 39465
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 20703273
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 29594857
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 365117
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 13414590
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 6921298
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 1433569
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 447971
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 313447
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 3396151
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 688070
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 63,
+    "Damage_Descp": "Cyclone",
+    "Amount": 3809
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 1017
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 62925
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1183740
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 307
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 26766
+  },
+  {
+    "State_Code": 8,
+    "State_Abv": "CO",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 200520
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 29029
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 70133
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 2681
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 75560
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1369654
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 8382
+  },
+  {
+    "State_Code": 9,
+    "State_Abv": "CT",
+    "Damage_Code": 95,
+    "Damage_Descp": "House Burn (Pole Burn)",
+    "Amount": 166012
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 268848
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 1250703
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 42294
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1989
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 281192
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 324263
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 16734
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 1174
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 109455
+  },
+  {
+    "State_Code": 10,
+    "State_Abv": "DE",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 145
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 206059
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 4331433
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 1267259
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 25920
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 481982
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 21260260
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 142521
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 2369474
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 210511
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 45,
+    "Damage_Descp": "Insufficient Chilling Hours",
+    "Amount": 34020
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 7346
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 6165773
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 107746
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 85043
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 223081
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 296186
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 98007
+  },
+  {
+    "State_Code": 12,
+    "State_Abv": "FL",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 4655
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 398720
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 24106639
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 4778734
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 42985
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 229749
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 46713815
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 180513
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 6944291
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 52093
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 2056254
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 828
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 536523
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 3145197
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 4734
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 63,
+    "Damage_Descp": "Cyclone",
+    "Amount": 1761
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 151626
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 2393432
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 9680
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 1361678
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 9966
+  },
+  {
+    "State_Code": 13,
+    "State_Abv": "GA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 96920
+  },
+  {
+    "State_Code": 15,
+    "State_Abv": "HI",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 161598
+  },
+  {
+    "State_Code": 15,
+    "State_Abv": "HI",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 20823
+  },
+  {
+    "State_Code": 15,
+    "State_Abv": "HI",
+    "Damage_Code": 92,
+    "Damage_Descp": "Hurricane/Tropical Depression",
+    "Amount": 33212
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 9975368
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 3750044
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 120618
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 4206
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 4567
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 3138728
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 114767906
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 494
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 26309
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 29688
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 2249246
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 3050489
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 2685001
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 7986
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 38500
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 46012
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1320319
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 84552
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 27139
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 299612
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 116
+  },
+  {
+    "State_Code": 19,
+    "State_Abv": "IA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 580774
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 3923725
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 20023984
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 8440750
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 8008523
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 476441
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 5460700
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 897500
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 529303
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 1339335
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 3721002
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 327648
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 102103
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 687648
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 834287
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 73100
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 1421633
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 2568699
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 106737
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 382312
+  },
+  {
+    "State_Code": 16,
+    "State_Abv": "ID",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 22301
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 40485548
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 1462635
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 23222
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": -78
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 83035
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 99952
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 819511
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 1368048
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 370041985
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 63917
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 445165
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 978793
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 8141649
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 17546455
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 623892
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 71347
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 59632
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1175654
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 5007699
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 85,
+    "Damage_Descp": "Federal or State Ordered Destruct",
+    "Amount": 9158
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 21014
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 153887
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 8070
+  },
+  {
+    "State_Code": 17,
+    "State_Abv": "IL",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 2174514
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 19568927
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 9,
+    "Damage_Descp": "Asian Soybean Rust",
+    "Amount": 701
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 1064670
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 73307
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 10923
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 10823
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 765725
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 338885506
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 1090210
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 322215
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 289878
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 3524853
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 19867382
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 371643
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 145
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 51998
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 441304
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 1320365
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 37996
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 165119
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 156828
+  },
+  {
+    "State_Code": 18,
+    "State_Abv": "IN",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 3320032
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 18703840
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 144483304
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 7598019
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 36651
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 37069
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 869
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 27104355
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 65412404
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 276416
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 15944763
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 47250178
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 2405588
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 1779849
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 603886
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 2015734
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 3978512
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 63,
+    "Damage_Descp": "Cyclone",
+    "Amount": 69518
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 11664
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 859393
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 2002280
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 1543488
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 21700
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 3377
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 124549
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 3064
+  },
+  {
+    "State_Code": 20,
+    "State_Abv": "KS",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 632100
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 882331
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 1781687
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 116143
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 2487423
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 63152722
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 91442
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 184847
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 125539
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 754883
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 17261101
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1618370
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 3256
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 669
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 993
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 300922
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 1173
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 84900
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 285497
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 95,
+    "Damage_Descp": "House Burn (Pole Burn)",
+    "Amount": 572899
+  },
+  {
+    "State_Code": 21,
+    "State_Abv": "KY",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 823646
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 891367
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 12397458
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 9091001
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 22453
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 480291
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 46883835
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 626773
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 4225028
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 793660
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 1346
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 21137
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 524101
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 32345
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 499291
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 21279
+  },
+  {
+    "State_Code": 22,
+    "State_Abv": "LA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 1315555
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 2235
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 148177
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 146515
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 280827
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 300016
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 104649
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 6375
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 53163
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 99
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 255852
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 74,
+    "Damage_Descp": "Other Causes",
+    "Amount": 199367
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 398142
+  },
+  {
+    "State_Code": 25,
+    "State_Abv": "MA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 27908
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 384026
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 2455409
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 781814
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 112991
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 233345
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 2220175
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 84834
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 62980
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 529215
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 12570
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 58957
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 11642
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 1278
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 886704
+  },
+  {
+    "State_Code": 24,
+    "State_Abv": "MD",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 9455
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 2622
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 11370
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 102992
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 198641
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 2965080
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 6648
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 14359
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 1895
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 107874
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 195643
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 17956
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 631480
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 10161
+  },
+  {
+    "State_Code": 23,
+    "State_Abv": "ME",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 269
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 4316694
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 669953
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 218332
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1364719
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 44690143
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 3070098
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 4912982
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 3316707
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 5089355
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 97162
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 74264
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 17452
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 350
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 21522
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 776802
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 2021336
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 458335
+  },
+  {
+    "State_Code": 26,
+    "State_Abv": "MI",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 1409505
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 4327003
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 9,
+    "Damage_Descp": "Asian Soybean Rust",
+    "Amount": 1513
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 6769970
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 4313202
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 19512881
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 38986604
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 674614
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 1804433
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 2016374
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 3842924
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 35832
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 302376
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1997726
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 59805
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 12106
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 58990
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1673749
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 274156
+  },
+  {
+    "State_Code": 27,
+    "State_Abv": "MN",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 568271
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 6882259
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 3260549
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 178051
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 26994
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 41394
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 23727
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 585858
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 466744931
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 25759
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 189563
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 1042272
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 5750798
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 23924341
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 160706
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 654817
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 191914
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 63,
+    "Damage_Descp": "Cyclone",
+    "Amount": 1632
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 28343
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 770858
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 5410271
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 1215
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 3662
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 139450
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 21031
+  },
+  {
+    "State_Code": 29,
+    "State_Abv": "MO",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 350604
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 1405398
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 16237284
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 14597084
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 101690
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 78983282
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 22520
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 1003913
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 4354877
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 469247
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 2910
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 75523
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 48351
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 3422
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 461999
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 30034
+  },
+  {
+    "State_Code": 28,
+    "State_Abv": "MS",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 170759
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 5385069
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 36850195
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 6422380
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 256518
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 6531
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 57341971
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 422791
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 2115724
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 2107713
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 1306604
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 141358
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 9902
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 721241
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1089952
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 158654
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 476630
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 463703
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 23852
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 62412
+  },
+  {
+    "State_Code": 30,
+    "State_Abv": "MT",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 15166
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 2095879
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 80684313
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 14463812
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1627102
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 76903
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 89973493
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 7324176
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 9354249
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 128632
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 2511579
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 161298
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 64678
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1522379
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 14195
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 6768
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 9990964
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 3914
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 2133
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 92,
+    "Damage_Descp": "Hurricane/Tropical Depression",
+    "Amount": 391314
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 751615
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 95,
+    "Damage_Descp": "House Burn (Pole Burn)",
+    "Amount": 10245
+  },
+  {
+    "State_Code": 37,
+    "State_Abv": "NC",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 50256
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 13856907
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 47633211
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 7220674
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 2274
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 12680
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 8398
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 39976965
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 130103973
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 4427777
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 5976727
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 55039
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 10967629
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 138058
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 1387732
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 19918574
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 5203188
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 11358
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 678811
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 9338634
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 4994915
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 58931
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 112540
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 3000556
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 7311
+  },
+  {
+    "State_Code": 38,
+    "State_Abv": "ND",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 565577
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 6899642
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 16816353
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 1914415
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 786542
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 14001
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 49591923
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 49827770
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 354002
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 4265071
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 40539994
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 2141908
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 1929749
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 269834
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 2327027
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 190223
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 36399
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 103073
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1230171
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 554435
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 2542
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 285922
+  },
+  {
+    "State_Code": 31,
+    "State_Abv": "NE",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 1156012
+  },
+  {
+    "State_Code": 33,
+    "State_Abv": "NH",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 3361
+  },
+  {
+    "State_Code": 33,
+    "State_Abv": "NH",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 3614
+  },
+  {
+    "State_Code": 33,
+    "State_Abv": "NH",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 48285
+  },
+  {
+    "State_Code": 33,
+    "State_Abv": "NH",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 72
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 56826
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 2910105
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 298863
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 20707
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 527386
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 55366
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 89110
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 120625
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 214523
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 115073
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 7452
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 71703
+  },
+  {
+    "State_Code": 34,
+    "State_Abv": "NJ",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 3181
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 63788
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 2195096
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 495915
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 1205695
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 82694
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 3031884
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 213944
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 724969
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 5585
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 43815
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 891618
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 656851
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 290889
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 131750
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 22624
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 30560
+  },
+  {
+    "State_Code": 35,
+    "State_Abv": "NM",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 44437
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 184157
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 12256574
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 40400
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 47691
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 49215
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 7390502
+  },
+  {
+    "State_Code": 32,
+    "State_Abv": "NV",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 94502
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 320416
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 671430
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 2013296
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1447779
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 2025
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 22704353
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 6040323
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 3179021
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 4003682
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 4694021
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 3979
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 149076
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 29716
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 14686
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 524351
+  },
+  {
+    "State_Code": 36,
+    "State_Abv": "NY",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 221521
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 18661256
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 4758904
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 25283
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 6713
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 1897
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 222296
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 149263431
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 136652
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 121162
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 314314
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 1761207
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 1610770
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 151495
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 63,
+    "Damage_Descp": "Cyclone",
+    "Amount": 967
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 20690
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 464160
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 2434877
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 21104
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 136165
+  },
+  {
+    "State_Code": 39,
+    "State_Abv": "OH",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 597198
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 4701987
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 51733860
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 203228
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 12621907
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 39713807
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 1378
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 6314506
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 626976
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 312271
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 2944365
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 3106497
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1120503
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 741487
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 65727
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 120451
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 277431
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 196631
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 1506
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 107235
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 7129
+  },
+  {
+    "State_Code": 40,
+    "State_Abv": "OK",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 562924
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 2933499
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 18637802
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 10620210
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 7066026
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 892775
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 360898
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 136005
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 5634761
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 547091
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 40589
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 1007707
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 167018
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 237539
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 222502
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 107107
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 326698
+  },
+  {
+    "State_Code": 41,
+    "State_Abv": "OR",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 15359
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 1225170
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 4347880
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 246142
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 2084256
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 641840
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 14111543
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 39350
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 788462
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 604476
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 277059
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 217015
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 133082
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 38
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 35343
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 31439
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 30899
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 87,
+    "Damage_Descp": "Falling Numbers",
+    "Amount": 1321
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 491900
+  },
+  {
+    "State_Code": 42,
+    "State_Abv": "PA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 212462
+  },
+  {
+    "State_Code": 44,
+    "State_Abv": "RI",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 57118
+  },
+  {
+    "State_Code": 44,
+    "State_Abv": "RI",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 3306
+  },
+  {
+    "State_Code": 44,
+    "State_Abv": "RI",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 2444
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 564812
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 42103789
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 7973622
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 14234
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 138727
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 63868160
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 29944
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 7253994
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 3480
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 485317
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 289985
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 127192
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 71255
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 58603
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1537336
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 7810
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 698352
+  },
+  {
+    "State_Code": 45,
+    "State_Abv": "SC",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 188639
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 8585787
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 48349143
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 312336
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 42690
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 40359821
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 41692688
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 473911
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 2864641
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 26274481
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 2621401
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 101739
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 329567
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1639596
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 283167
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 63,
+    "Damage_Descp": "Cyclone",
+    "Amount": 1909
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 3360
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 29887
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1240096
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 532000
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 503
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 185278
+  },
+  {
+    "State_Code": 46,
+    "State_Abv": "SD",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 2776269
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 732970
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 2663276
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 246873
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 32908
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 178031
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 26686857
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 170661
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 539236
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 1350948
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 9829348
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 68154
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 4441
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 302403
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 20969
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 91251
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 92,
+    "Damage_Descp": "Hurricane/Tropical Depression",
+    "Amount": 1675
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 533949
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 95,
+    "Damage_Descp": "House Burn (Pole Burn)",
+    "Amount": 785953
+  },
+  {
+    "State_Code": 47,
+    "State_Abv": "TN",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 4264
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 4920551
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 59780141
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 7388218
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 37418902
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 14,
+    "Damage_Descp": "Failure Irrig Equip",
+    "Amount": 38732
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 16919
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 96653045
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 256389043
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 45910
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 1783199
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 51957
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 7114785
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 3876139
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 6178537
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 16093746
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 5924665
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 64,
+    "Damage_Descp": "Tornado",
+    "Amount": 248553
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 1522799
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 1028485
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 30871
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 3486
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 1195462
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 36590
+  },
+  {
+    "State_Code": 48,
+    "State_Abv": "TX",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 176848
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 42110
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 238999
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 217181
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 623516
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 69954
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 50671
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 199058
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 374958
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 54858
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 8685
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 1104403
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 11098
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 52249
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 42750
+  },
+  {
+    "State_Code": 49,
+    "State_Abv": "UT",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 7501
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 1673157
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 10120701
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 2607290
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1094154
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 557808
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 11659362
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 987405
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 2453555
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 521324
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 403426
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 70512
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 97125
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 283714
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 23532
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 197098
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 26409
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 572035
+  },
+  {
+    "State_Code": 51,
+    "State_Abv": "VA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 71998
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 6733
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 68567
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 101828
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 3079753
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 8361
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 88214
+  },
+  {
+    "State_Code": 50,
+    "State_Abv": "VT",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 2358
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 16119292
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 90434895
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 40171344
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 1116048
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 8991231
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 22
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 2332834
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 6705821
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 6440536
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 6655814
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 1973188
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 1106309
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 200343
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 23655
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 97860
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 91,
+    "Damage_Descp": "Fire",
+    "Amount": 250100
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 1542
+  },
+  {
+    "State_Code": 53,
+    "State_Abv": "WA",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 153832
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 3146360
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 10103830
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 1288013
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 646
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 15,
+    "Damage_Descp": "Inability to Prepare Land for Irr",
+    "Amount": 8924
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 1899544
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 18219010
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 857507
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 243905
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 6310166
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 5475632
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 31793
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 121428
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 161040
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 97587
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 987955
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 82,
+    "Damage_Descp": "Mycotoxin (Aflatoxin)",
+    "Amount": 521411
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 198660
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 95,
+    "Damage_Descp": "House Burn (Pole Burn)",
+    "Amount": 27244
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 97,
+    "Damage_Descp": "Earthquake",
+    "Amount": 2963
+  },
+  {
+    "State_Code": 55,
+    "State_Abv": "WI",
+    "Damage_Code": 99,
+    "Damage_Descp": "Other (Snow-Lightning-Etc.)",
+    "Amount": 1024483
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 11087
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 133401
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 12986
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 22,
+    "Damage_Descp": "Excess Sun",
+    "Amount": 376581
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 318970
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 12605
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 199639
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 288
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 3318
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 27050
+  },
+  {
+    "State_Code": 54,
+    "State_Abv": "WV",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 46203
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 1,
+    "Damage_Descp": "Decline in Price",
+    "Amount": 191391
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 11,
+    "Damage_Descp": "Drought",
+    "Amount": 53390
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 12,
+    "Damage_Descp": "Heat",
+    "Amount": 35287
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 13,
+    "Damage_Descp": "Failure Irrig Supply",
+    "Amount": 7164
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 21,
+    "Damage_Descp": "Hail",
+    "Amount": 3606177
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 31,
+    "Damage_Descp": "Excess Moisture/Precip/Rain",
+    "Amount": 1219196
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 41,
+    "Damage_Descp": "Frost",
+    "Amount": 79426
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 42,
+    "Damage_Descp": "Freeze",
+    "Amount": 796930
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 43,
+    "Damage_Descp": "Cold Winter",
+    "Amount": 306818
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 44,
+    "Damage_Descp": "Cold Wet Weather",
+    "Amount": 262968
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 51,
+    "Damage_Descp": "Flood",
+    "Amount": 6435
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 55,
+    "Damage_Descp": "Area Plan Crops Only",
+    "Amount": 27776
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 61,
+    "Damage_Descp": "Wind/Excess Wind",
+    "Amount": 76487
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 62,
+    "Damage_Descp": "Hot Wind",
+    "Amount": 5372
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 71,
+    "Damage_Descp": "Insects",
+    "Amount": 1507
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 81,
+    "Damage_Descp": "Plant Disease",
+    "Amount": 17754
+  },
+  {
+    "State_Code": 56,
+    "State_Abv": "WY",
+    "Damage_Code": 93,
+    "Damage_Descp": "Wildlife",
+    "Amount": 7959
+  }
+]
