@@ -87,7 +87,7 @@ var path = d3.geoPath();
 d3.csv("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/losses2015_transformed.csv?token=AVPWBJ1b6N9DpjxwSVsGCxvUh6-_Ot1-ks5bt7YUwA%3D%3D", function(err, data) {
 
  mydata = d3.nest()
-                            .key(function(d) { return d.Damage_Descp;})
+                            .key(function(d) { return d.State_Code;})
                             .rollup(function(d) {  //rollup --->sum the values -->aggreagte
                               return d3.sum(d, function(g) {return g.Amount; });
                             })
@@ -100,7 +100,7 @@ d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
   if (error) throw error;
 
   name_id_map = {};
-  id_name_map = {};
+ // id_name_map = {};
   
   for (var i = 0; i < mydata.length; i++) {
 
@@ -181,14 +181,17 @@ console.log(name_id_map);
         .on("mousemove", function(d) {
             var html = "";
   
+            var val = name_id_map[parseInt(d.id)];
+            //console.log("id====="+name_id_map[parseInt(d.id)])
+
             html += "<div class=\"tooltip_kv\">";
             html += "<span class=\"tooltip_key\">";
-            html += name_id_map[d.id];
+            html += val;
             html += "</span>";
-            html += "<span class=\"tooltip_value\">";
-            html += "ghghb"//(valueById.get(d.id) ? valueById.get(d.id) : "");
-            html += "";
-            html += "</span>";
+           // html += "<span class=\"tooltip_value\">";
+            //html += "ghghb"//(valueById.get(d.id) ? valueById.get(d.id) : "");
+           // html += "";
+            //html += "</span>";
             html += "</div>";
             
             $("#tooltip-container").html(html);
