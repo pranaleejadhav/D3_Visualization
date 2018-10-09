@@ -37,12 +37,12 @@ function loadDashboard() {
                 state_name_map[state_names[i].id] = state_names[i].code;
             }
 
-         d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBHgOpI6jU1lB4J_PkQXZi5CFJ-DLks5bxmH2wA%3D%3D", function(error, us) {
-         	usdata = us
-        if (error) throw error;
-            createBarChart()
-            createMap()
-        });
+            d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBF9G852ajisYkm5Q-NWoLtnQ_6NSks5bxmgXwA%3D%3D", function(error, us) {
+                usdata = us
+                if (error) throw error;
+                createBarChart()
+                createMap()
+            });
         });
     });
 }
@@ -192,98 +192,90 @@ function createMap(damage_name = "") {
     }
 
 
-    /*
+   console.log(mydata);
+
+
+    name_id_map = {};
+
     for (var i = 0; i < mydata.length; i++) {
-        state_name_map[mydata[i].key] = dataset[];
-      }*/
-    console.log(mydata);
 
+        var dataState = mydata[i].key;
+        var dataValue = mydata[i].value;
+        name_id_map[dataState] = dataValue;
+        for (var j = 0; j < usdata.objects.states.length; j++) {
+            var jsonState = usdata.objects.states[j].id;
 
-    d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBHgOpI6jU1lB4J_PkQXZi5CFJ-DLks5bxmH2wA%3D%3D", function(error, us) {
-         	usdata = us
-        if (error) throw error;
-
-        name_id_map = {};
-
-        for (var i = 0; i < mydata.length; i++) {
-
-            var dataState = mydata[i].key;
-            var dataValue = mydata[i].value;
-            name_id_map[dataState] = dataValue;
-            for (var j = 0; j < usdata.objects.states.length; j++) {
-                var jsonState = usdata.objects.states[j].id;
-
-                if (dataState == jsonState) {
-                    usdata.states[j].properties.value = dataValue;
-                    break;
-                }
+            if (dataState == jsonState) {
+                usdata.states[j].properties.value = dataValue;
+                break;
             }
-
         }
 
-console.log(name_id_map)
-        svg.append("g")
-            .attr("class", "categories-choropleth")
-            .selectAll("path")
-            .data(topojson.feature(usdata, usdata.objects.states).features)
-            .enter().append("path")
-            .attr("d", path)
-            .style("fill", function(d) {
-                var temp = parseInt(d.id, 10)
-                if (name_id_map[temp]) {
-                    var i = quantize(name_id_map[temp]);
-                    var color = colors[i].getColors();
-                    return "rgb(" + color.r + "," + color.g +
-                        "," + color.b + ")";
-                } else {
-                    return "";
-                }
-            })
-            .on("mousemove", function(d) {
-                createBarChart(state_name_map[parseInt(d.id)])
-                var html = "";
-                var val = name_id_map[parseInt(d.id)];
-                html += "<div class=\"tooltip_kv\">";
-                html += "<span class=\"tooltip_key\">";
-                html += state_name_map[parseInt(d.id)];
-                html += " : ";
-                html += val;
-                html += "</span>";
-                html += "</div>";
+    }
 
-                $("#tooltip-container").html(html);
-                $(this).attr("fill-opacity", "0.8");
-                $("#tooltip-container").show();
-
-                var coordinates = d3.mouse(this);
-
-                var map_width = $('.categories-choropleth')[0].getBoundingClientRect().width;
-
-                if (d3.event.pageX < map_width / 2) {
-                    d3.select("#tooltip-container")
-                        .style("top", (d3.event.pageY + 15) + "px")
-                        .style("left", (d3.event.pageX + 15) + "px");
-                } else {
-                    var tooltip_width = $("#tooltip-container").width();
-                    d3.select("#tooltip-container")
-                        .style("top", (d3.event.pageY + 15) + "px")
-                        .style("left", (d3.event.pageX - tooltip_width - 30) + "px");
-                }
-            })
-            .on("mouseout", function() {
-                createBarChart()
-                $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
-            });
-
-        svg.append("path")
-            .datum(topojson.mesh(usdata, usdata.objects.states, function(a, b) {
-                return a !== b;
-            }))
-            .attr("class", "categories")
-            .attr("d", path);
-        });
     
+    svg.append("g")
+        .attr("class", "categories-choropleth")
+        .selectAll("path")
+        .data(topojson.feature(usdata, usdata.objects.states).features)
+        .enter().append("path")
+        .attr("d", path)
+        .style("fill", function(d) {
+            var temp = parseInt(d.id, 10)
+            if (name_id_map[temp]) {
+                var i = quantize(name_id_map[temp]);
+                var color = colors[i].getColors();
+                return "rgb(" + color.r + "," + color.g +
+                    "," + color.b + ")";
+            } else {
+                return "";
+            }
+        })
+        .on("mousemove", function(d) {
+            createBarChart(state_name_map[parseInt(d.id)])
+            var html = "";
+            var val = name_id_map[parseInt(d.id)];
+            html += "<div class=\"tooltip_kv\">";
+            html += "<span class=\"tooltip_key\">";
+            html += state_name_map[parseInt(d.id)];
+            html += " : ";
+            html += val;
+            html += "</span>";
+            html += "</div>";
+
+            $("#tooltip-container").html(html);
+            $(this).attr("fill-opacity", "0.8");
+            $("#tooltip-container").show();
+
+            var coordinates = d3.mouse(this);
+
+            var map_width = $('.categories-choropleth')[0].getBoundingClientRect().width;
+
+            if (d3.event.pageX < map_width / 2) {
+                d3.select("#tooltip-container")
+                    .style("top", (d3.event.pageY + 15) + "px")
+                    .style("left", (d3.event.pageX + 15) + "px");
+            } else {
+                var tooltip_width = $("#tooltip-container").width();
+                d3.select("#tooltip-container")
+                    .style("top", (d3.event.pageY + 15) + "px")
+                    .style("left", (d3.event.pageX - tooltip_width - 30) + "px");
+            }
+        })
+        .on("mouseout", function() {
+            createBarChart()
+            $(this).attr("fill-opacity", "1.0");
+            $("#tooltip-container").hide();
+        });
+
+    svg.append("path")
+        .datum(topojson.mesh(usdata, usdata.objects.states, function(a, b) {
+            return a !== b;
+        }))
+        .attr("class", "categories")
+        .attr("d", path);
+
+
 }
 
 function Interpolate(start, end, steps, count) {
