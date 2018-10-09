@@ -1,5 +1,6 @@
 var dataset;
 var state_name_map = {};
+var usdata;
 var mydata;
 var COLOR_COUNTS = 9;
 var COLOR_FIRST = "#c3e2ff",
@@ -26,17 +27,22 @@ var quantize = d3.scaleQuantize()
 
 
 function loadDashboard() {
-    d3.csv("https://raw.githubusercontent.com/nipun03/VA-HW4/master/Data/losses2015_transformed.csv", function(error, data) {
+    d3.csv("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/losses2015_transformed.csv?token=AVPWBFLxeGBtHXX8TgbmxHHJO3ejP69Jks5bxmEdwA%3D%3D", function(error, data) {
         if (error) throw error;
         dataset = data;
 
         d3.tsv("https://s3-us-west-2.amazonaws.com/vida-public/geo/us-state-names.tsv", function(error, state_names) {
+
             for (var i = 0; i < state_names.length; i++) {
                 state_name_map[state_names[i].id] = state_names[i].code;
             }
 
+         d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBHgOpI6jU1lB4J_PkQXZi5CFJ-DLks5bxmH2wA%3D%3D", function(error, us) {
+         	usdata = us
+        if (error) throw error;
             createBarChart()
             createMap()
+        });
         });
     });
 }
@@ -193,7 +199,8 @@ function createMap(damage_name = "") {
     console.log(mydata);
 
 
-    d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
+    d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBHgOpI6jU1lB4J_PkQXZi5CFJ-DLks5bxmH2wA%3D%3D", function(error, us) {
+         	usdata = us
         if (error) throw error;
 
         name_id_map = {};
@@ -203,21 +210,22 @@ function createMap(damage_name = "") {
             var dataState = mydata[i].key;
             var dataValue = mydata[i].value;
             name_id_map[dataState] = dataValue;
-            for (var j = 0; j < us.objects.states.length; j++) {
-                var jsonState = us.objects.states[j].id;
+            for (var j = 0; j < usdata.objects.states.length; j++) {
+                var jsonState = usdata.objects.states[j].id;
 
                 if (dataState == jsonState) {
-                    us.states[j].properties.value = dataValue;
+                    usdata.states[j].properties.value = dataValue;
                     break;
                 }
             }
 
         }
 
+console.log(name_id_map)
         svg.append("g")
             .attr("class", "categories-choropleth")
             .selectAll("path")
-            .data(topojson.feature(us, us.objects.states).features)
+            .data(topojson.feature(usdata, usdata.objects.states).features)
             .enter().append("path")
             .attr("d", path)
             .style("fill", function(d) {
@@ -269,12 +277,13 @@ function createMap(damage_name = "") {
             });
 
         svg.append("path")
-            .datum(topojson.mesh(us, us.objects.states, function(a, b) {
+            .datum(topojson.mesh(usdata, usdata.objects.states, function(a, b) {
                 return a !== b;
             }))
             .attr("class", "categories")
             .attr("d", path);
-    });
+        });
+    
 }
 
 function Interpolate(start, end, steps, count) {
