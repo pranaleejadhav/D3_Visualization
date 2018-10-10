@@ -220,6 +220,7 @@ function createMap(damage_name = "") {
         .data(topojson.feature(usdata, usdata.objects.states).features)
         .enter().append("path")
         .attr("d", path)
+        .attr("transform","scale("+ SCALE + ")")
         .style("fill", function(d) {
             var temp = parseInt(d.id, 10)
             if (name_id_map[temp]) {
@@ -273,6 +274,7 @@ function createMap(damage_name = "") {
             return a !== b;
         }))
         .attr("class", "categories")
+        .attr("transform","scale("+ SCALE + ")")
         .attr("d", path);
 
 
