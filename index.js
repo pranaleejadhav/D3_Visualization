@@ -1,5 +1,10 @@
 //Code developed by pranalee jadhav
 //Defining  variables
+
+var losses_fileurl = "https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/losses2015_transformed.csv"
+var usjson_url = "https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json"
+var tsv_url = "https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-state-names.tsv"
+
 var dataset;
 var state_name_map = {};
 var colors = [];
@@ -33,17 +38,17 @@ var quantize = d3.scaleQuantize()
 
 // initial function to fetch data and show dashboard
 function loadDashboard() {
-    d3.csv("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/losses2015_transformed.csv?token=AVPWBFLxeGBtHXX8TgbmxHHJO3ejP69Jks5bxmEdwA%3D%3D", function(error, data) {
+    d3.csv(losses_fileurl, function(error, data) {
         if (error) throw error;
         dataset = data;
 
-        d3.tsv("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-state-names.tsv?token=AVPWBK08_zUd_E7HsAkAF_pCyRV98EI0ks5bx4F9wA%3D%3D", function(error, state_names) {
+        d3.tsv(tsv_url, function(error, state_names) {
             // map state name with state code
             for (var i = 0; i < state_names.length; i++) {
                 state_name_map[state_names[i].id] = state_names[i].code;
             }
 
-            d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBF9G852ajisYkm5Q-NWoLtnQ_6NSks5bxmgXwA%3D%3D", function(error, us) {
+            d3.json(usjson_url, function(error, us) {
                 // fetch us-10m data
                 usdata = us
                 if (error) throw error;
