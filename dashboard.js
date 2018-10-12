@@ -1,43 +1,50 @@
+//Code developed by pranalee jadhav
+//Defining  variables
 var dataset;
 var state_name_map = {};
+var colors = [];
 var usdata;
 var mydata;
-var COLOR_COUNTS = 9;
-var COLOR_FIRST = "#c3e2ff",
-    COLOR_LAST = "#08306B";
-var rgb = hexToRgb(COLOR_FIRST);
-var COLOR_START = new Color(rgb.r, rgb.g, rgb.b);
-rgb = hexToRgb(COLOR_LAST);
-var COLOR_END = new Color(rgb.r, rgb.g, rgb.b);
-var startColors = COLOR_START.getColors(),
-    endColors = COLOR_END.getColors();
-var colors = [];
-for (var i = 0; i < COLOR_COUNTS; i++) {
-    var r = Interpolate(startColors.r, endColors.r, COLOR_COUNTS, i);
-    var g = Interpolate(startColors.g, endColors.g, COLOR_COUNTS, i);
-    var b = Interpolate(startColors.b, endColors.b, COLOR_COUNTS, i);
+
+
+//Defining color related variables
+var COUNT_OF_COLOR = 9;
+var COLOR1 = "#c3e2ff", COLOR2 = "#08306B";
+var rgb = hexToRgb(COLOR1);
+var COLOR_BEGIN = new Color(rgb.r, rgb.g, rgb.b);
+rgb = hexToRgb(COLOR2);
+var COLOR_LAST = new Color(rgb.r, rgb.g, rgb.b);
+var colors_start = COLOR_BEGIN.getColors(),
+    colors_end = COLOR_LAST.getColors();
+
+for (var i = 0; i < COUNT_OF_COLOR; i++) {
+    var r = processColor(colors_start.r, colors_end.r, COUNT_OF_COLOR, i);
+    var g = processColor(colors_start.g, colors_end.g, COUNT_OF_COLOR, i);
+    var b = processColor(colors_start.b, colors_end.b, COUNT_OF_COLOR, i);
     colors.push(new Color(r, g, b));
 }
 
 var quantize = d3.scaleQuantize()
     .domain([0, 300000000])
-    .range(d3.range(COLOR_COUNTS).map(function(i) {
+    .range(d3.range(COUNT_OF_COLOR).map(function(i) {
         return i
     }));
 
 
+// initial function to fetch data and show dashboard
 function loadDashboard() {
     d3.csv("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/losses2015_transformed.csv?token=AVPWBFLxeGBtHXX8TgbmxHHJO3ejP69Jks5bxmEdwA%3D%3D", function(error, data) {
         if (error) throw error;
         dataset = data;
 
-        d3.tsv("https://s3-us-west-2.amazonaws.com/vida-public/geo/us-state-names.tsv", function(error, state_names) {
-
+        d3.tsv("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-state-names.tsv?token=AVPWBK08_zUd_E7HsAkAF_pCyRV98EI0ks5bx4F9wA%3D%3D", function(error, state_names) {
+            // map state name with state code
             for (var i = 0; i < state_names.length; i++) {
                 state_name_map[state_names[i].id] = state_names[i].code;
             }
 
             d3.json("https://raw.githubusercontent.com/pranaleejadhav/D3_Visualization/master/us-10m.json?token=AVPWBF9G852ajisYkm5Q-NWoLtnQ_6NSks5bxmgXwA%3D%3D", function(error, us) {
+                // fetch us-10m data
                 usdata = us
                 if (error) throw error;
                 createBarChart()
@@ -61,7 +68,7 @@ function createBarChart(state_name = "") {
         width = +svg.attr("width") - margin.left - margin.right,
         height = +svg.attr("height") - margin.top - margin.bottom;
 
-    var tooltip = d3.select("body").append("div").attr("class", "toolTip");
+    var bartooltip = d3.select("body").append("div").attr("class", "barToolTip");
 
     var x = d3.scaleLinear().range([0, width]);
     var y = d3.scaleBand().range([height, 0]);
@@ -145,7 +152,7 @@ function createBarChart(state_name = "") {
         })
         .on("mousemove", function(d) {
             createMap(d.key)
-            tooltip
+            bartooltip
                 .style("left", d3.event.pageX - 50 + "px")
                 .style("top", d3.event.pageY - 70 + "px")
                 .style("display", "inline-block")
@@ -153,7 +160,7 @@ function createBarChart(state_name = "") {
         })
         .on("mouseout", function(d) {
             createMap()
-            tooltip.style("display", "none");
+            bartooltip.style("display", "none");
         });
 }
 
@@ -195,6 +202,7 @@ function createMap(damage_name = "") {
    console.log(mydata);
 
 
+    // mapping us-10m json with csv file
     name_id_map = {};
 
     for (var i = 0; i < mydata.length; i++) {
@@ -215,7 +223,7 @@ function createMap(damage_name = "") {
 
     
     svg.append("g")
-        .attr("class", "categories-choropleth")
+        .attr("class", "choropleth_states")
         .selectAll("path")
         .data(topojson.feature(usdata, usdata.objects.states).features)
         .enter().append("path")
@@ -236,29 +244,29 @@ function createMap(damage_name = "") {
             createBarChart(state_name_map[parseInt(d.id)])
             var html = "";
             var val = name_id_map[parseInt(d.id)];
-            html += "<div class=\"tooltip_kv\">";
-            html += "<span class=\"tooltip_key\">";
+            html += "<div>";
+            html += "<span class=\"tooltip_sname\">";
             html += state_name_map[parseInt(d.id)];
             html += " : ";
             html += val;
             html += "</span>";
             html += "</div>";
 
-            $("#tooltip-container").html(html);
+            $("#tooltip_div").html(html);
             $(this).attr("fill-opacity", "0.8");
-            $("#tooltip-container").show();
+            $("#tooltip_div").show();
 
             var coordinates = d3.mouse(this);
 
-            var map_width = $('.categories-choropleth')[0].getBoundingClientRect().width;
+            var map_width = $('.choropleth_states')[0].getBoundingClientRect().width;
 
             if (d3.event.pageX < map_width / 2) {
-                d3.select("#tooltip-container")
+                d3.select("#tooltip_div")
                     .style("top", (d3.event.pageY + 15) + "px")
                     .style("left", (d3.event.pageX + 15) + "px");
             } else {
-                var tooltip_width = $("#tooltip-container").width();
-                d3.select("#tooltip-container")
+                var tooltip_width = $("#tooltip_div").width();
+                d3.select("#tooltip_div")
                     .style("top", (d3.event.pageY + 15) + "px")
                     .style("left", (d3.event.pageX - tooltip_width - 30) + "px");
             }
@@ -266,21 +274,21 @@ function createMap(damage_name = "") {
         .on("mouseout", function() {
             createBarChart()
             $(this).attr("fill-opacity", "1.0");
-            $("#tooltip-container").hide();
+            $("#tooltip_div").hide();
         });
 
     svg.append("path")
         .datum(topojson.mesh(usdata, usdata.objects.states, function(a, b) {
             return a !== b;
         }))
-        .attr("class", "categories")
+        .attr("class", "states")
         .attr("transform","scale("+ SCALE + ")")
         .attr("d", path);
 
 
 }
 
-function Interpolate(start, end, steps, count) {
+function processColor(start, end, steps, count) {
     var s = start,
         e = end,
         final = s + (((e - s) / steps) * count);
